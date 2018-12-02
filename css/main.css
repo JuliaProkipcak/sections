@@ -50,3 +50,24 @@ img {
   display: block;
   width: 100%;
 }
+
+section {
+  padding: 2em 0;
+}
+
+.btn {
+  text-align: left;
+  font-size: 1.125rem;
+}
+
+.text {
+  display: inline-block;
+  text-align: left;
+  max-width: 25em;
+  padding: 1em;
+  vertical-align: middle;
+}
+
+p {
+  margin: 0 0 1.5rem;
+}
