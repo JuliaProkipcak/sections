@@ -38,3 +38,15 @@ a:hover {
   border-color: #666;
   text-decoration: none;
 }
+
+.image {
+  padding: 1em;
+  display: inline-block;
+  max width: 25em;
+  vertical-align: middle;
+}
+
+img {
+  display: block;
+  width: 100%;
+}
