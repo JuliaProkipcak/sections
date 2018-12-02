@@ -13,3 +13,20 @@ body {
   text-align center;
   margin: 0;
 }
+
+h2 {
+  display: inline-block;
+  font-weight: bold;
+  margin: 0 0 1.5rem;
+}
+
+a {
+  display: inline;
+  font-family: Lato, sans-serif;
+  color: #333;
+  text-decoration: none;
+  border-color: #333;
+  border: solid;
+  padding: .4em .75em .5em;
+  border-radius: none;
+}
