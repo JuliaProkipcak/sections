@@ -10,7 +10,7 @@ html {
 
 body {
   background-color: #eee9de;
-  text-align center;
+  text-align: center;
   margin: 0;
 }
 
@@ -21,20 +21,19 @@ h2 {
 }
 
 a {
-  display: inline block;
+  display: inline-block;
   font-family: Lato, sans-serif;
   color: #333;
   text-decoration: none;
   border-color: #333;
   border: solid;
   padding: .4em .75em .5em;
-  border-radius: none;
 }
 
 a:hover {
-  display: inline block;
+  display: inline-block;
   color: #fff;
-  background color: #666;
+  background-color: #666;
   border-color: #666;
   text-decoration: none;
 }
@@ -42,7 +41,7 @@ a:hover {
 .image {
   padding: 1em;
   display: inline-block;
-  max width: 25em;
+  max-width: 25em;
   vertical-align: middle;
 }
 
