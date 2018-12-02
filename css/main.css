@@ -30,3 +30,10 @@ a {
   padding: .4em .75em .5em;
   border-radius: none;
 }
+
+a:hover {
+  display: inline block;
+  color: #fff;
+  background color: #666;
+  border-color: #666;
+}
